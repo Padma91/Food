@@ -2,3 +2,4 @@
 echo "Idly"
 echo "samabar"
 echo "Vada"
+echo "chutney"
